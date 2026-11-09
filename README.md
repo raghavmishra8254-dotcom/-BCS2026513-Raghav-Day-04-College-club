@@ -57,7 +57,7 @@ To practice HTML and CSS by creating a modern college club website.
 
 ## 📸 Website Screenshot
 
-![Raghav's Campus Club](home.png)
+![Raghav's Campus Club](IMG_20261109_200246.jpg)
 
 ## 📸 Website Screenshot
 
