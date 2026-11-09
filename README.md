@@ -54,6 +54,16 @@ To practice HTML and CSS by creating a modern college club website.
 **Created with ❤️ by Raghav Mishra**
 
 © 2026 All Rights Reserved.
+
+## 📸 Website Screenshot
+
+![Raghav's Campus Club](home.png)
+
+## 📸 Website Screenshot
+
+![Raghav's Campus Club](home.png)
+
+
 ## 📸 Website Screenshot
 
 ![Raghav's Campus Club](home.png)
