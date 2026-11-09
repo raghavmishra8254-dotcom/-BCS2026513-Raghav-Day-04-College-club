@@ -109,3 +109,42 @@ body {
 }
 
 .about h2 {
+
+/* Registration Form */
+
+.registration-form {
+    max-width: 550px;
+    margin: 35px auto 0;
+    background: white;
+    padding: 35px;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+    text-align: left;
+}
+
+.registration-form label {
+    display: block;
+    margin: 15px 0 8px;
+    font-weight: bold;
+}
+
+.registration-form input,
+.registration-form select,
+.registration-form textarea {
+    width: 100%;
+    padding: 13px;
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+}
+
+.registration-form textarea {
+    resize: vertical;
+}
+
+.registration-form button {
+    border: none;
+    margin-top: 22px;
+    cursor: pointer;
+}
