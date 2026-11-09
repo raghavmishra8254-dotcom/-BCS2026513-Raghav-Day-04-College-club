@@ -55,15 +55,15 @@ To practice HTML and CSS by creating a modern college club website.
 
 © 2026 All Rights Reserved.
 
-## 📸 Website Screenshot
+## 📸 Home Page Screenshot
 
 ![Raghav's Campus Club](IMG_20261109_200246.jpg)
 
-## 📸 Website Screenshot
+## 📸 About Page Screenshot
 
 ![Raghav's Campus Club](IMG_20261109_200301.jpg)
 
 
-## 📸 Website Screenshot
+## 📸 Registration Page Screenshot
 
 ![Raghav's Campus Club](IMG_20261109_200313.jpg)
